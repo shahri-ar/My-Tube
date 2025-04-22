@@ -1,4 +1,7 @@
-to install dependecis;
-npm i;
-to run the app;
-npm run start;
+## Getting Started
+
+### Install Dependencies
+```bash
+npm install
+
+npm run start
